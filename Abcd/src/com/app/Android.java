@@ -3,7 +3,7 @@ package com.app;
 public class Android extends Mobile{
 	public void android() {
 		System.out.println("from android..");
-		System.out.println("implification..");
+		System.out.println("implification..again changed");
 //github
 	}
 public static void main(String[] args) {

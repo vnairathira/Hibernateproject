@@ -5,7 +5,7 @@ public static void iPhone() {
 	System.out.println("from iphone..");
 }
 public static void ios() {
-	System.out.println("....");
+	System.out.println("changed..");
 }
 /*public static void main(String[] args) {
 	IPhone i=new IPhone();
