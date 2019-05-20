@@ -5,7 +5,8 @@ public class A {
 	     if(age<18)  
 	      throw new InvalidAgeException("not valid");  
 	     else  
-	      System.out.println("welcome to vote");  
+	      System.out.println("welcome to vote"); 
+	     // helloo
 	   }  
 	     
 	   public static void main(String args[]){  
